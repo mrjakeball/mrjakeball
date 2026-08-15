@@ -58,13 +58,13 @@ Every project now has its own space: a quick introduction, a dedicated card and 
 | **TEMPO PULSE** · `PWA` · `FITNESS` |
 | :--- |
 | Workouts, nutrition and progress move in one mobile rhythm, without needless detours. |
-| <p align="center"><a href="https://github.com/mrjakeball/tempo-pulse-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/card.svg" alt="TEMPO PULSE project card" width="520" /></a></p> |
+| <p align="center"><a href="https://github.com/mrjakeball/tempo-pulse-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/card.svg" alt="TEMPO PULSE project card" width="400" /></a></p> |
 | **[View showcase →](https://github.com/mrjakeball/tempo-pulse-showcase)** · **[Launch PWA ↗](https://tempo-fitness-pwa.pages.dev/)** |
 
 | **X‑TREME Shop Bot** · `TELEGRAM` · `COMMERCE` |
 | :--- |
 | The bot quickly estimates a Poizon or Taobao order and guides the user from product link to request. |
-| <p align="center"><a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/xtreme-shop-bot-showcase/main/assets/card.svg" alt="X-TREME Shop Bot project card" width="520" /></a></p> |
+| <p align="center"><a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/xtreme-shop-bot-showcase/main/assets/card.svg" alt="X-TREME Shop Bot project card" width="400" /></a></p> |
 | **[View showcase →](https://github.com/mrjakeball/xtreme-shop-bot-showcase)** · **[Open in Telegram ↗](https://t.me/XtremeShopBot)** |
 
 ### Learning and product flows
@@ -72,13 +72,13 @@ Every project now has its own space: a quick introduction, a dedicated card and 
 | **Kodograf VVGU** · `PYTHON` · `EDTECH` |
 | :--- |
 | Code is written in Monaco and runs in the browser—the learning environment works for real. |
-| <p align="center"><a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/card.svg" alt="Kodograf VVGU project card" width="520" /></a></p> |
+| <p align="center"><a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/card.svg" alt="Kodograf VVGU project card" width="400" /></a></p> |
 | **[View showcase →](https://github.com/mrjakeball/kodograf-vvgu-showcase)** |
 
 | **Pashtel** · `E-COMMERCE` · `UX` |
 | :--- |
 | A warm bakery storefront leads from choosing a treat to reviewing the order in five clear steps. |
-| <p align="center"><a href="https://github.com/mrjakeball/pashtel-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/pashtel-showcase/main/assets/card.svg" alt="Pashtel project card" width="520" /></a></p> |
+| <p align="center"><a href="https://github.com/mrjakeball/pashtel-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/pashtel-showcase/main/assets/card.svg" alt="Pashtel project card" width="400" /></a></p> |
 | **[View showcase →](https://github.com/mrjakeball/pashtel-showcase)** |
 
 ### Interactive and engineering practice
@@ -86,19 +86,19 @@ Every project now has its own space: a quick introduction, a dedicated card and 
 | **NOCTRA / LUCID-1** · `3D` · `R3F` |
 | :--- |
 | Motion and light turn an encounter with a 3D object into a short interactive study. |
-| <p align="center"><a href="https://github.com/mrjakeball/noctra-lucid-1-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/noctra-lucid-1-showcase/main/assets/card.svg" alt="NOCTRA / LUCID-1 project card" width="520" /></a></p> |
+| <p align="center"><a href="https://github.com/mrjakeball/noctra-lucid-1-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/noctra-lucid-1-showcase/main/assets/card.svg" alt="NOCTRA / LUCID-1 project card" width="400" /></a></p> |
 | **[View showcase →](https://github.com/mrjakeball/noctra-lucid-1-showcase)** |
 
 | **World Cup 2026 Predictor** · `STATE` · `EXPORT` |
 | :--- |
 | Tournament picks, individual awards and result export come together in one clear flow. |
-| <p align="center"><a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/world-cup-2026-predictor-showcase/main/assets/card.svg" alt="World Cup 2026 Predictor project card" width="520" /></a></p> |
+| <p align="center"><a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/world-cup-2026-predictor-showcase/main/assets/card.svg" alt="World Cup 2026 Predictor project card" width="400" /></a></p> |
 | **[View showcase →](https://github.com/mrjakeball/world-cup-2026-predictor-showcase)** |
 
 | **Linux & DevOps Trainer** · `LINUX` · `DEVOPS` |
 | :--- |
 | Theory moves into terminal practice and realistic scenarios, so each concept can be tried immediately. |
-| <p align="center"><a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/card.svg" alt="Linux and DevOps Trainer project card" width="520" /></a></p> |
+| <p align="center"><a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/card.svg" alt="Linux and DevOps Trainer project card" width="400" /></a></p> |
 | **[View showcase →](https://github.com/mrjakeball/linux-devops-trainer-showcase)** |
 
 ### Next project · iOS
@@ -106,7 +106,7 @@ Every project now has its own space: a quick introduction, a dedicated card and 
 | **CineFlow iOS** · `UIKIT` · `ROADMAP` |
 | :--- |
 | An honest native catalogue plan: title details, favourites and legal trailer playback. |
-| <p align="center"><a href="https://github.com/mrjakeball/cineflow-ios-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/cineflow-ios-showcase/main/assets/card.svg" alt="CineFlow iOS roadmap card" width="520" /></a></p> |
+| <p align="center"><a href="https://github.com/mrjakeball/cineflow-ios-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/cineflow-ios-showcase/main/assets/card.svg" alt="CineFlow iOS roadmap card" width="400" /></a></p> |
 | **[View roadmap →](https://github.com/mrjakeball/cineflow-ios-showcase)** · Coding has not started yet |
 
 <p align="center">
