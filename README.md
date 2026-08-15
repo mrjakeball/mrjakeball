@@ -7,16 +7,26 @@
 </p>
 
 <p align="center">
-  Учусь через практику: создаю реальные проекты и постепенно развиваюсь в Python, DevOps, QA и веб-разработке.
+  <strong>Учусь через практику — превращаю идеи в понятные работающие сценарии.</strong><br />
+  <sub>Python · DevOps · QA · Web</sub>
+</p>
+
+<p align="center">
+  <a href="#проекты">Проекты</a> ·
+  <a href="#сейчас-в-фокусе">Фокус</a> ·
+  <a href="#использую-и-изучаю">Стек</a> ·
+  <a href="https://github.com/mrjakeball/portfolio">Весь каталог ↗</a>
 </p>
 
 ---
 
 ## Обо мне
 
-Я **Алексей**. Учусь разработке через практику: делаю учебные и личные проекты, тестирую их и постепенно улучшаю.
+Я **Алексей**. Учусь разработке через реальные задачи: собираю проекты, тестирую основные сценарии и постепенно делаю результат лучше.
 
 Сейчас изучаю Python, основы DevOps, QA и веб-разработку. Здесь публикую только те работы, которые готов показать и объяснить.
+
+> Мой рабочий цикл: **собрать → проверить → объяснить → улучшить**.
 
 ## Сейчас в фокусе
 
@@ -41,51 +51,63 @@
 
 ## Проекты
 
-Каждая карточка ведёт в отдельную публичную витрину проекта — с небольшими галереями, решениями и честными ограничениями. Приватные исходники туда не входят.
+У каждого проекта теперь своё место: короткий контекст, отдельная карточка и понятный следующий шаг. Витрины показывают реальные экраны, решения и ограничения, не раскрывая приватный код.
 
-### Уже можно открыть
+### Можно запустить
 
-Здесь не только макеты: TEMPO доступен как PWA, а X‑TREME работает через публичную ссылку Telegram.
+| **TEMPO PULSE** · `PWA` · `FITNESS` |
+| :--- |
+| Тренировки, питание и прогресс собраны в один мобильный ритм — без лишних переходов. |
+| <p align="center"><a href="https://github.com/mrjakeball/tempo-pulse-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/card.svg" alt="Карточка проекта TEMPO PULSE" width="520" /></a></p> |
+| **[Смотреть витрину →](https://github.com/mrjakeball/tempo-pulse-showcase)** · **[Открыть PWA ↗](https://tempo-fitness-pwa.pages.dev/)** |
 
-<p align="center">
-  <a href="https://github.com/mrjakeball/tempo-pulse-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/card.svg" alt="TEMPO PULSE — открыть витрину" width="520" /></a>
-  <a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/xtreme-shop-bot-showcase/main/assets/card.svg" alt="X-TREME Shop Bot — открыть витрину" width="520" /></a>
-</p>
+| **X‑TREME Shop Bot** · `TELEGRAM` · `COMMERCE` |
+| :--- |
+| Бот быстро считает заказ с Poizon или Taobao и проводит пользователя от ссылки до заявки. |
+| <p align="center"><a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/xtreme-shop-bot-showcase/main/assets/card.svg" alt="Карточка проекта X-TREME Shop Bot" width="520" /></a></p> |
+| **[Смотреть витрину →](https://github.com/mrjakeball/xtreme-shop-bot-showcase)** · **[Открыть в Telegram ↗](https://t.me/XtremeShopBot)** |
 
-<p align="center">
-  <a href="https://tempo-fitness-pwa.pages.dev/"><img src="https://img.shields.io/badge/TEMPO_LIVE-161B22?style=for-the-badge&amp;logo=pwa&amp;logoColor=58A6FF" alt="Открыть TEMPO PULSE" height="30" /></a>
-  <a href="https://t.me/XtremeShopBot"><img src="https://img.shields.io/badge/POIZON_BOT-161B22?style=for-the-badge&amp;logo=telegram&amp;logoColor=58A6FF" alt="Открыть X-TREME Shop Bot в Telegram" height="30" /></a>
-</p>
+### Учебные и продуктовые сценарии
 
-### Обучение и продуктовые сценарии
+| **Кодограф ВВГУ** · `PYTHON` · `EDTECH` |
+| :--- |
+| Код пишется в Monaco и запускается прямо в браузере — учебная среда работает по-настоящему. |
+| <p align="center"><a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/card.svg" alt="Карточка проекта Кодограф ВВГУ" width="520" /></a></p> |
+| **[Смотреть витрину →](https://github.com/mrjakeball/kodograf-vvgu-showcase)** |
 
-В Кодографе главный объект — работающий редактор и выполнение Python. В Pashtel — цельный путь от витрины до проверки заказа.
-
-<p align="center">
-  <a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/card.svg" alt="Кодограф ВВГУ — открыть витрину" width="520" /></a>
-  <a href="https://github.com/mrjakeball/pashtel-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/pashtel-showcase/main/assets/card.svg" alt="Pashtel — открыть витрину" width="520" /></a>
-</p>
+| **Pashtel** · `E-COMMERCE` · `UX` |
+| :--- |
+| Тёплая витрина пекарни ведёт от выбора выпечки до проверки заказа за пять ясных шагов. |
+| <p align="center"><a href="https://github.com/mrjakeball/pashtel-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/pashtel-showcase/main/assets/card.svg" alt="Карточка проекта Pashtel" width="520" /></a></p> |
+| **[Смотреть витрину →](https://github.com/mrjakeball/pashtel-showcase)** |
 
 ### Интерактив и инженерная практика
 
-NOCTRA исследует 3D-объект через движение и свет; World Cup собирает сложную турнирную логику; Trainer превращает теорию Linux и DevOps в практические сценарии.
+| **NOCTRA / LUCID-1** · `3D` · `R3F` |
+| :--- |
+| Движение и свет превращают знакомство с 3D-объектом в короткое интерактивное исследование. |
+| <p align="center"><a href="https://github.com/mrjakeball/noctra-lucid-1-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/noctra-lucid-1-showcase/main/assets/card.svg" alt="Карточка проекта NOCTRA / LUCID-1" width="520" /></a></p> |
+| **[Смотреть витрину →](https://github.com/mrjakeball/noctra-lucid-1-showcase)** |
 
-<p align="center">
-  <a href="https://github.com/mrjakeball/noctra-lucid-1-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/noctra-lucid-1-showcase/main/assets/card.svg" alt="NOCTRA / LUCID-1 — открыть витрину" width="520" /></a>
-  <a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/world-cup-2026-predictor-showcase/main/assets/card.svg" alt="World Cup 2026 Predictor — открыть витрину" width="520" /></a>
-</p>
+| **World Cup 2026 Predictor** · `STATE` · `EXPORT` |
+| :--- |
+| Турнирный прогноз, личные награды и экспорт результата складываются в один понятный сценарий. |
+| <p align="center"><a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/world-cup-2026-predictor-showcase/main/assets/card.svg" alt="Карточка проекта World Cup 2026 Predictor" width="520" /></a></p> |
+| **[Смотреть витрину →](https://github.com/mrjakeball/world-cup-2026-predictor-showcase)** |
 
-<p align="center">
-  <a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/card.svg" alt="Linux &amp; DevOps Trainer — открыть витрину" width="520" /></a>
-</p>
+| **Linux & DevOps Trainer** · `LINUX` · `DEVOPS` |
+| :--- |
+| Теория переходит в терминал и практические сценарии — удобно готовиться и сразу пробовать команды. |
+| <p align="center"><a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/card.svg" alt="Карточка проекта Linux и DevOps Trainer" width="520" /></a></p> |
+| **[Смотреть витрину →](https://github.com/mrjakeball/linux-devops-trainer-showcase)** |
 
 ### Следующий проект · iOS
 
-CineFlow уже разложен на честный roadmap: нативный каталог, карточка фильма, избранное и легальное воспроизведение трейлеров. Код ещё не начат — витрина показывает план, а не выдуманный результат.
-
-<p align="center">
-  <a href="https://github.com/mrjakeball/cineflow-ios-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/cineflow-ios-showcase/main/assets/card.svg" alt="CineFlow iOS — открыть план проекта" width="520" /></a>
-</p>
+| **CineFlow iOS** · `UIKIT` · `ROADMAP` |
+| :--- |
+| Честный план нативного каталога: карточка фильма, избранное и легальное воспроизведение трейлеров. |
+| <p align="center"><a href="https://github.com/mrjakeball/cineflow-ios-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/cineflow-ios-showcase/main/assets/card.svg" alt="Карточка плана CineFlow iOS" width="520" /></a></p> |
+| **[Посмотреть roadmap →](https://github.com/mrjakeball/cineflow-ios-showcase)** · Код ещё не начат |
 
 <p align="center">
   <a href="https://github.com/mrjakeball/portfolio"><img src="https://img.shields.io/badge/ВЕСЬ_КАТАЛОГ_ПРОЕКТОВ-8B5CF6?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Открыть каталог проектов" height="30" /></a>
