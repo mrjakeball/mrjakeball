@@ -1,69 +1,116 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.svg" alt="Aleksei Kuzmin — учусь, создаю, развиваюсь" width="100%" />
+</p>
 
-# Aleksei Kuzmin | mrjakeball
+<p align="center">
+  <strong>Русский</strong> · <a href="./README_EN.md">English</a>
+</p>
 
-`учусь • создаю • развиваюсь`
+<p align="center">
+  Учусь через практику: создаю реальные проекты и постепенно развиваюсь в Python, DevOps, QA и веб-разработке.
+</p>
 
-<b>Русский</b> · <a href="./README_EN.md">English</a>
-
-<br />
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=2800&amp;pause=1000&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=680&amp;height=45&amp;lines=%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E%20%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B;%D0%98%D0%B7%D1%83%D1%87%D0%B0%D1%8E%20Python%2C%20DevOps%20%D0%B8%20QA;%D0%A0%D0%B0%D0%B7%D0%B2%D0%B8%D0%B2%D0%B0%D1%8E%D1%81%D1%8C%20%D0%BE%D1%82%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%20%D0%BA%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%83"
-  alt="Создаю учебные и личные проекты. Изучаю Python, DevOps и QA. Развиваюсь от проекта к проекту."
-/>
-
-</div>
+---
 
 ## Обо мне
 
-Привет! Я **Алексей**. Изучаю разработку через практику: создаю учебные и личные проекты, тестирую их и постепенно улучшаю.
+Я **Алексей**. Учусь разработке через практику: делаю учебные и личные проекты, тестирую их и постепенно улучшаю.
 
-Сейчас развиваюсь в направлениях **Python**, **DevOps** и **QA**. Этот профиль — место, где я буду публиковать законченные работы и фиксировать свой прогресс.
+Сейчас изучаю Python, основы DevOps, QA и веб-разработку. Здесь публикую только те работы, которые готов показать и объяснить.
 
 ## Сейчас в фокусе
 
-- Python и автоматизация
-- Linux, Docker и основы DevOps
-- веб-разработка на JavaScript / TypeScript и React
-- QA, тестирование и практики разработки
-- Git, GitHub и аккуратное оформление проектов
+- **Python и автоматизация**
+- **Linux, Docker и основы DevOps**
+- **JavaScript, TypeScript и React**
+- **QA и тестирование**
+- **Git, GitHub и документация проектов**
 
 ## Использую и изучаю
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&amp;logo=python&amp;logoColor=8B5CF6" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&amp;logo=git&amp;logoColor=8B5CF6" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&amp;logo=linux&amp;logoColor=8B5CF6" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&amp;logo=docker&amp;logoColor=8B5CF6" alt="Docker" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&amp;logo=javascript&amp;logoColor=8B5CF6" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&amp;logo=typescript&amp;logoColor=8B5CF6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&amp;logo=react&amp;logoColor=8B5CF6" alt="React" />
-  <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&amp;logoColor=8B5CF6" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&amp;logo=python&amp;logoColor=8B5CF6" alt="Python" height="28" />
+  <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&amp;logo=git&amp;logoColor=8B5CF6" alt="Git" height="28" />
+  <img src="https://img.shields.io/badge/Linux-161B22?style=for-the-badge&amp;logo=linux&amp;logoColor=8B5CF6" alt="Linux" height="28" />
+  <img src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&amp;logo=docker&amp;logoColor=58A6FF" alt="Docker" height="28" />
+  <img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&amp;logo=javascript&amp;logoColor=8B5CF6" alt="JavaScript" height="28" />
+  <img src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&amp;logo=typescript&amp;logoColor=58A6FF" alt="TypeScript" height="28" />
+  <img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&amp;logo=react&amp;logoColor=58A6FF" alt="React" height="28" />
+  <img src="https://img.shields.io/badge/SQL-161B22?style=for-the-badge&amp;logo=postgresql&amp;logoColor=58A6FF" alt="SQL" height="28" />
 </p>
 
 ## Проекты
 
-> 🚧 Сейчас я готовлю учебные и личные проекты к публикации.
->
-> Здесь появятся только реальные репозитории — с кратким описанием задачи, стеком и результатом.
+Ниже — шесть проектов, отобранных после проверки кода, сборок и основных пользовательских сценариев. Исходники части проектов пока приватны или готовятся к публикации.
 
-<!--
-Шаблон для будущего проекта:
+### TEMPO PULSE
 
-### Название проекта
+<p>
+  <img src="./assets/projects/tempo.jpg" alt="Главный экран фитнес-приложения TEMPO PULSE" width="100%" />
+</p>
 
-Короткое описание задачи и результата.
+Мобильный PWA для тренировок, питания и отслеживания прогресса с локальным хранением данных и офлайн-сценариями.
 
-`Технология` `Технология`
+`React 19` `TypeScript` `Dexie` `WebAuthn` `PWA`
 
-[Открыть репозиторий](https://github.com/mrjakeball/REPOSITORY)
--->
+[Открыть приложение](https://tempo-fitness-pwa.pages.dev/) · **Статус:** развивается, исходный код пока приватный
 
----
+### Кодограф ВВГУ
 
-<div align="center">
+<p>
+  <img src="./assets/projects/kodograf.jpg" alt="Редактор и запущенный Python-код в проекте Кодограф ВВГУ" width="100%" />
+</p>
 
-<sub>Профиль будет обновляться вместе с новыми проектами.</sub>
+Образовательная среда с редактором Monaco, запуском Python прямо в браузере, уроками и проверкой решений.
 
-</div>
+`Next.js` `Monaco` `Pyodide` `Web Worker` `Sandbox`
+
+**Статус:** репозиторий готовится к публикации
+
+### Pashtel
+
+<p>
+  <img src="./assets/projects/pashtel.jpg" alt="Главная страница интернет-витрины Pashtel" width="100%" />
+</p>
+
+Адаптивная интернет-витрина пекарни с каталогом, корзиной, пятишаговым checkout и серверным пересчётом заказа.
+
+`Next.js` `TypeScript` `API` `Checkout` `Accessibility`
+
+**Статус:** демонстрационная версия готовится к публикации
+
+### NOCTRA / LUCID-1
+
+<p>
+  <img src="./assets/projects/noctra.png" alt="Интерактивная 3D-сцена проекта NOCTRA" width="100%" />
+</p>
+
+Интерактивный 3D-проект с процедурной моделью, PBR-материалами, светом, звуком и анимацией при прокрутке.
+
+`React` `React Three Fiber` `Three.js` `GSAP` `Web Audio`
+
+**Статус:** репозиторий готовится к публикации
+
+### World Cup 2026 Predictor
+
+<p>
+  <img src="./assets/projects/world-cup.jpg" alt="Экран выбора игроков World Cup 2026 Predictor" width="100%" />
+</p>
+
+Клиентский конструктор прогноза турнира: группы, плей-офф, награды, локальные сохранения и экспорт результата.
+
+`React` `TypeScript` `Vite` `Zustand` `Vitest`
+
+**Статус:** в разработке, исходный код пока приватный
+
+### Linux & DevOps Trainer
+
+<p>
+  <img src="./assets/projects/devops-trainer.jpg" alt="Интерфейс тренажёра Linux и DevOps" width="100%" />
+</p>
+
+Тренажёр для подготовки к собеседованиям с теорией, терминалом, практическими лабораториями и симуляциями.
+
+`Python` `Streamlit` `Linux` `DevOps` `Testing`
+
+**Статус:** репозиторий готовится к публикации
