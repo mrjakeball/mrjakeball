@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Aleksei Kuzmin</title>
+  <desc id="desc">A dark animated banner with the phrase learning, building, improving.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117" />
+      <stop offset="0.52" stop-color="#10151E" />
+      <stop offset="1" stop-color="#0D1117" />
+    </linearGradient>
+    <linearGradient id="accent" x1="230" y1="70" x2="970" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" />
+      <stop offset="1" stop-color="#58A6FF" />
+    </linearGradient>
+    <radialGradient id="violetGlow" cx="0" cy="0" r="1" gradientTransform="translate(180 62) rotate(30) scale(290 150)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" stop-opacity="0.16" />
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="blueGlow" cx="0" cy="0" r="1" gradientTransform="translate(1030 268) rotate(-150) scale(300 155)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF" stop-opacity="0.13" />
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#8B949E" stroke-opacity="0.09" stroke-width="1" />
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1200" height="320" rx="18" />
+    </clipPath>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" />
+    </filter>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#background)" />
+    <rect width="1200" height="320" fill="url(#grid)" />
+    <rect width="1200" height="320" fill="url(#violetGlow)" />
+    <rect width="1200" height="320" fill="url(#blueGlow)" />
+
+    <g stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-20 88H128L168 48H326" stroke="#8B5CF6" stroke-opacity="0.28" stroke-width="2" stroke-dasharray="8 18">
+        <animate attributeName="stroke-dashoffset" from="0" to="-104" dur="12s" repeatCount="indefinite" />
+      </path>
+      <path d="M874 272H1032L1072 232H1220" stroke="#58A6FF" stroke-opacity="0.28" stroke-width="2" stroke-dasharray="8 18">
+        <animate attributeName="stroke-dashoffset" from="0" to="104" dur="12s" repeatCount="indefinite" />
+      </path>
+
+      <path d="M0 252H112L152 212H246" stroke="#30363D" stroke-width="1.5" />
+      <path d="M954 108H1048L1088 68H1200" stroke="#30363D" stroke-width="1.5" />
+      <path d="M40 116H92L116 140" stroke="#58A6FF" stroke-opacity="0.34" stroke-width="1.5" />
+      <path d="M1160 204H1108L1084 180" stroke="#8B5CF6" stroke-opacity="0.34" stroke-width="1.5" />
+    </g>
+
+    <g fill="#8B5CF6">
+      <circle cx="128" cy="88" r="3" />
+      <circle cx="168" cy="48" r="3" />
+      <circle cx="116" cy="140" r="3" />
+    </g>
+    <g fill="#58A6FF">
+      <circle cx="1072" cy="232" r="3" />
+      <circle cx="1032" cy="272" r="3" />
+      <circle cx="1084" cy="180" r="3" />
+    </g>
+
+    <circle r="4" fill="#8B5CF6" filter="url(#softGlow)">
+      <animateMotion path="M-20 88H128L168 48H326" dur="8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="8s" repeatCount="indefinite" />
+    </circle>
+    <circle r="4" fill="#58A6FF" filter="url(#softGlow)">
+      <animateMotion path="M1220 232H1072L1032 272H874" dur="9s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="9s" repeatCount="indefinite" />
+    </circle>
+
+    <rect x="268" y="72" width="664" height="176" rx="16" fill="#0D1117" fill-opacity="0.72" stroke="#30363D" stroke-opacity="0.42" />
+    <path d="M440 230H760" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-dasharray="64 20">
+      <animate attributeName="stroke-dashoffset" from="0" to="-84" dur="9s" repeatCount="indefinite" />
+    </path>
+
+    <text x="600" y="157" text-anchor="middle" fill="#F0F6FC" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="52" font-weight="700" letter-spacing="7">ALEKSEI KUZMIN</text>
+    <text x="600" y="202" text-anchor="middle" fill="#B7C3D4" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="20" letter-spacing="1.2">learning • building • improving<tspan fill="#8B5CF6">_<animate attributeName="opacity" values="0.25;1;0.25" dur="1.6s" repeatCount="indefinite" /></tspan></text>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1198.5" height="318.5" rx="17.25" stroke="url(#accent)" stroke-opacity="0.38" stroke-width="1.5" />
+</svg>
