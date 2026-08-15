@@ -172,13 +172,13 @@
 
 ### World Cup 2026 Predictor
 
-`REACT` · `STATE` · `EXPORT`
+`REACT` · `ZUSTAND` · `EXPORT`
 
 Турнирный прогноз от группового этапа до наград и экспорта результата.
 
 <a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/world-cup-2026-predictor-showcase/main/assets/card.svg" alt="World Cup 2026 Predictor" width="520" /></a>
 
-**[Смотреть витрину →](https://github.com/mrjakeball/world-cup-2026-predictor-showcase)**
+**[Смотреть витрину →](https://github.com/mrjakeball/world-cup-2026-predictor-showcase)** · **[Открыть сайт ↗](https://courageous-elf-34b597.netlify.app)**
 
 </div>
 
