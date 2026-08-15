@@ -57,31 +57,59 @@ I'm currently developing my skills in **Python, DevOps, QA and web development**
 
 ## 🚀 Projects
 
-Here are several projects that show different areas of my practical work.
-
-More projects are available below or in the full project directory.
+A few projects that show different areas of my practical work.
 
 ### ✅ Ready to use
 
-| **TEMPO PULSE** · `PWA` · `FITNESS` |
-| :--- |
-| Workouts, nutrition and progress are brought together in one mobile experience. |
-| <p align="center"><a href="https://github.com/mrjakeball/tempo-pulse-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/card.svg" alt="TEMPO PULSE" width="400" /></a></p> |
-| **[View showcase →](https://github.com/mrjakeball/tempo-pulse-showcase)** · **[Launch PWA ↗](https://tempo-fitness-pwa.pages.dev/)** |
+<div align="center">
 
-| **X-TREME Shop Bot** · `TELEGRAM` · `COMMERCE` |
-| :--- |
-| The bot calculates Poizon and Taobao orders and guides the user from product link to request. |
-| <p align="center"><a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/xtreme-shop-bot-showcase/main/assets/card.svg" alt="X-TREME Shop Bot" width="400" /></a></p> |
-| **[View showcase →](https://github.com/mrjakeball/xtreme-shop-bot-showcase)** · **[Open in Telegram ↗](https://t.me/XtremeShopBot)** |
+### TEMPO PULSE
+
+`PWA` · `FITNESS` · `REACT`
+
+Workouts, nutrition and progress in one mobile application.
+
+<a href="https://github.com/mrjakeball/tempo-pulse-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/card.svg" alt="TEMPO PULSE" width="520" /></a>
+
+**[View showcase →](https://github.com/mrjakeball/tempo-pulse-showcase)** · **[Launch PWA ↗](https://tempo-fitness-pwa.pages.dev/)**
+
+</div>
+
+<br />
+
+<div align="center">
+
+### X-TREME Shop Bot
+
+`TELEGRAM` · `PYTHON` · `COMMERCE`
+
+Poizon and Taobao order estimation with a guided request flow.
+
+<a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/xtreme-shop-bot-showcase/main/assets/card.svg" alt="X-TREME Shop Bot" width="520" /></a>
+
+**[View showcase →](https://github.com/mrjakeball/xtreme-shop-bot-showcase)** · **[Open in Telegram ↗](https://t.me/XtremeShopBot)**
+
+</div>
+
+<br />
 
 ### 🛠️ Engineering practice
 
-| **Linux & DevOps Trainer** · `LINUX` · `DEVOPS` |
-| :--- |
-| Theory turns into terminal practice and realistic scenarios, so concepts can be tried immediately. |
-| <p align="center"><a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/card.svg" alt="Linux & DevOps Trainer" width="400" /></a></p> |
-| **[View showcase →](https://github.com/mrjakeball/linux-devops-trainer-showcase)** |
+<div align="center">
+
+### Linux & DevOps Trainer
+
+`LINUX` · `DEVOPS` · `TESTING`
+
+Theory, terminal practice and engineering scenarios in one trainer.
+
+<a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/card.svg" alt="Linux & DevOps Trainer" width="520" /></a>
+
+**[View showcase →](https://github.com/mrjakeball/linux-devops-trainer-showcase)**
+
+</div>
+
+<br />
 
 <details>
 <summary><strong>📂 Show 4 more projects</strong></summary>
@@ -90,41 +118,93 @@ More projects are available below or in the full project directory.
 
 ### 🎓 Learning and product projects
 
-| **Kodograf VVGU** · `PYTHON` · `EDTECH` |
-| :--- |
-| Code is written in Monaco and executed directly in the browser. |
-| <p align="center"><a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/card.svg" alt="Kodograf VVGU" width="400" /></a></p> |
-| **[View showcase →](https://github.com/mrjakeball/kodograf-vvgu-showcase)** |
+<div align="center">
 
-| **Pashtel** · `E-COMMERCE` · `UX` |
-| :--- |
-| A bakery storefront guides the user from product selection to order review in a clear checkout flow. |
-| <p align="center"><a href="https://github.com/mrjakeball/pashtel-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/pashtel-showcase/main/assets/card.svg" alt="Pashtel" width="400" /></a></p> |
-| **[View showcase →](https://github.com/mrjakeball/pashtel-showcase)** |
+### Kodograf VVGU
+
+`PYTHON` · `EDTECH`
+
+Lessons, code and Python execution directly in the browser.
+
+<a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/card.svg" alt="Kodograf VVGU" width="520" /></a>
+
+**[View showcase →](https://github.com/mrjakeball/kodograf-vvgu-showcase)**
+
+</div>
+
+<br />
+
+<div align="center">
+
+### Pashtel
+
+`E-COMMERCE` · `UX`
+
+A responsive bakery storefront and guided checkout flow.
+
+<a href="https://github.com/mrjakeball/pashtel-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/pashtel-showcase/main/assets/card.svg" alt="Pashtel" width="520" /></a>
+
+**[View showcase →](https://github.com/mrjakeball/pashtel-showcase)**
+
+</div>
+
+<br />
 
 ### 🧩 Interactive
 
-| **NOCTRA / LUCID-1** · `3D` · `R3F` |
-| :--- |
-| Motion and light turn an encounter with a 3D object into a short interactive exploration. |
-| <p align="center"><a href="https://github.com/mrjakeball/noctra-lucid-1-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/noctra-lucid-1-showcase/main/assets/card.svg" alt="NOCTRA / LUCID-1" width="400" /></a></p> |
-| **[View showcase →](https://github.com/mrjakeball/noctra-lucid-1-showcase)** |
+<div align="center">
 
-| **World Cup 2026 Predictor** · `STATE` · `EXPORT` |
-| :--- |
-| Tournament predictions, individual awards and result export form one connected experience. |
-| <p align="center"><a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/world-cup-2026-predictor-showcase/main/assets/card.svg" alt="World Cup 2026 Predictor" width="400" /></a></p> |
-| **[View showcase →](https://github.com/mrjakeball/world-cup-2026-predictor-showcase)** |
+### NOCTRA / LUCID-1
+
+`3D` · `R3F` · `GSAP`
+
+An interactive procedural 3D study driven by light and motion.
+
+<a href="https://github.com/mrjakeball/noctra-lucid-1-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/noctra-lucid-1-showcase/main/assets/card.svg" alt="NOCTRA / LUCID-1" width="520" /></a>
+
+**[View showcase →](https://github.com/mrjakeball/noctra-lucid-1-showcase)**
+
+</div>
+
+<br />
+
+<div align="center">
+
+### World Cup 2026 Predictor
+
+`REACT` · `STATE` · `EXPORT`
+
+Tournament predictions from the group stage to awards and result export.
+
+<a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/world-cup-2026-predictor-showcase/main/assets/card.svg" alt="World Cup 2026 Predictor" width="520" /></a>
+
+**[View showcase →](https://github.com/mrjakeball/world-cup-2026-predictor-showcase)**
+
+</div>
 
 </details>
 
+<br />
+
 ### 📱 Next project · iOS
 
-| **CineFlow iOS** · `UIKIT` · `ROADMAP` |
-| :--- |
-| A native catalogue roadmap with title details, favourites and legal trailer playback. |
-| <p align="center"><a href="https://github.com/mrjakeball/cineflow-ios-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/cineflow-ios-showcase/main/assets/card.svg" alt="CineFlow iOS" width="400" /></a></p> |
-| **[View roadmap →](https://github.com/mrjakeball/cineflow-ios-showcase)** · Coding has not started yet |
+<div align="center">
+
+### CineFlow
+
+`SWIFT` · `UIKIT` · `ROADMAP`
+
+The roadmap for my first complete native iOS project.
+
+<a href="https://github.com/mrjakeball/cineflow-ios-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/cineflow-ios-showcase/main/assets/card.svg" alt="CineFlow iOS" width="520" /></a>
+
+**[View roadmap →](https://github.com/mrjakeball/cineflow-ios-showcase)**
+
+<sub>Coding has not started yet.</sub>
+
+</div>
+
+<br />
 
 <p align="center">
   <a href="https://github.com/mrjakeball/portfolio/blob/main/README_EN.md"><img src="https://img.shields.io/badge/FULL_PROJECT_DIRECTORY-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Full project directory" height="31" /></a>
@@ -139,4 +219,4 @@ More projects are available below or in the full project directory.
   <a href="https://github.com/mrjakeball"><img src="https://img.shields.io/badge/GITHUB-21262D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
 </p>
 
-<sub>This profile and its projects will evolve as I continue learning.</sub>
+<sub>The profile and its projects evolve together with my practice and learning.</sub>
