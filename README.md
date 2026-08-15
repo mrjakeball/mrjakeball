@@ -215,6 +215,7 @@
 ## 📫 Контакты
 
 <p>
+  <a href="https://t.me/a1e5hka"><img src="https://img.shields.io/badge/TELEGRAM-21262D?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" /></a>
   <a href="mailto:kuzmin_aleksey2004@mail.ru"><img src="https://img.shields.io/badge/EMAIL-21262D?style=for-the-badge&logo=maildotru&logoColor=8B5CF6" alt="Email" /></a>
   <a href="https://github.com/mrjakeball"><img src="https://img.shields.io/badge/GITHUB-21262D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
 </p>
