@@ -3,13 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/РУССКИЙ-8B5CF6?style=for-the-badge" alt="Русский" height="30" />
-  </a>
+  <a href="./README.md"><img src="https://img.shields.io/badge/РУССКИЙ-8B5CF6?style=for-the-badge" alt="Русский" height="30" /></a>
   &nbsp;
-  <a href="./README_EN.md">
-    <img src="https://img.shields.io/badge/ENGLISH-21262D?style=for-the-badge" alt="English" height="30" />
-  </a>
+  <a href="./README_EN.md"><img src="https://img.shields.io/badge/ENGLISH-21262D?style=for-the-badge" alt="English" height="30" /></a>
 </p>
 
 <p align="center">
@@ -19,18 +15,10 @@
 </p>
 
 <p align="center">
-  <a href="#projects">
-    <img src="https://img.shields.io/badge/🚀_ПРОЕКТЫ-21262D?style=for-the-badge" alt="Проекты" height="27" />
-  </a>
-  <a href="#focus">
-    <img src="https://img.shields.io/badge/🎯_ФОКУС-21262D?style=for-the-badge" alt="Фокус" height="27" />
-  </a>
-  <a href="#stack">
-    <img src="https://img.shields.io/badge/🧰_СТЕК-21262D?style=for-the-badge" alt="Стек" height="27" />
-  </a>
-  <a href="https://github.com/mrjakeball/portfolio">
-    <img src="https://img.shields.io/badge/📚_КАТАЛОГ-21262D?style=for-the-badge" alt="Каталог проектов" height="27" />
-  </a>
+  <a href="#projects"><img src="https://img.shields.io/badge/🚀_ПРОЕКТЫ-21262D?style=for-the-badge" alt="Проекты" height="27" /></a>
+  <a href="#focus"><img src="https://img.shields.io/badge/🎯_ФОКУС-21262D?style=for-the-badge" alt="Фокус" height="27" /></a>
+  <a href="#stack"><img src="https://img.shields.io/badge/🧰_СТЕК-21262D?style=for-the-badge" alt="Стек" height="27" /></a>
+  <a href="https://github.com/mrjakeball/portfolio"><img src="https://img.shields.io/badge/📚_КАТАЛОГ-21262D?style=for-the-badge" alt="Каталог проектов" height="27" /></a>
 </p>
 
 ---
@@ -69,13 +57,15 @@
 
 ## 🚀 Проекты
 
-Ниже — несколько проектов, которые лучше всего показывают разные стороны моей практики. Остальные можно раскрыть отдельно или посмотреть в полном каталоге.
+Здесь несколько проектов, которые лучше всего показывают разные стороны моей практики.
+
+Остальные можно раскрыть ниже или посмотреть в полном каталоге.
 
 ### ✅ Можно запустить
 
 | **TEMPO PULSE** · `PWA` · `FITNESS` |
 | :--- |
-| Тренировки, питание и прогресс собраны в один мобильный ритм — без лишних переходов. |
+| Тренировки, питание и прогресс собраны в один мобильный сценарий — без лишних переходов. |
 | <p align="center"><a href="https://github.com/mrjakeball/tempo-pulse-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/card.svg" alt="TEMPO PULSE" width="400" /></a></p> |
 | **[Смотреть витрину →](https://github.com/mrjakeball/tempo-pulse-showcase)** · **[Открыть PWA ↗](https://tempo-fitness-pwa.pages.dev/)** |
 
@@ -122,7 +112,7 @@
 
 | **World Cup 2026 Predictor** · `STATE` · `EXPORT` |
 | :--- |
-| Турнирный прогноз, личные награды и экспорт результата объединены в один сценарий. |
+| Турнирный прогноз, личные награды и экспорт результата объединены в один связанный сценарий. |
 | <p align="center"><a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/world-cup-2026-predictor-showcase/main/assets/card.svg" alt="World Cup 2026 Predictor" width="400" /></a></p> |
 | **[Смотреть витрину →](https://github.com/mrjakeball/world-cup-2026-predictor-showcase)** |
 
@@ -137,9 +127,7 @@
 | **[Посмотреть roadmap →](https://github.com/mrjakeball/cineflow-ios-showcase)** · Код ещё не начат |
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/portfolio">
-    <img src="https://img.shields.io/badge/ВЕСЬ_КАТАЛОГ_ПРОЕКТОВ-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Весь каталог проектов" height="31" />
-  </a>
+  <a href="https://github.com/mrjakeball/portfolio"><img src="https://img.shields.io/badge/ВЕСЬ_КАТАЛОГ_ПРОЕКТОВ-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Весь каталог проектов" height="31" /></a>
 </p>
 
 ---
@@ -147,13 +135,8 @@
 ## 📫 Контакты
 
 <p>
-  <a href="mailto:kuzmin_aleksey2004@mail.ru">
-    <img src="https://img.shields.io/badge/EMAIL-21262D?style=for-the-badge&logo=maildotru&logoColor=8B5CF6" alt="Email" />
-  </a>
-
-  <a href="https://github.com/mrjakeball">
-    <img src="https://img.shields.io/badge/GITHUB-21262D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="mailto:kuzmin_aleksey2004@mail.ru"><img src="https://img.shields.io/badge/EMAIL-21262D?style=for-the-badge&logo=maildotru&logoColor=8B5CF6" alt="Email" /></a>
+  <a href="https://github.com/mrjakeball"><img src="https://img.shields.io/badge/GITHUB-21262D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
 </p>
 
 <sub>Профиль и проекты будут обновляться по мере моего развития.</sub>
