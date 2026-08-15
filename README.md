@@ -41,76 +41,52 @@
 
 ## Проекты
 
-Ниже — шесть проектов, отобранных после проверки кода, сборок и основных пользовательских сценариев. Исходники части проектов пока приватны или готовятся к публикации.
+Каждая карточка ведёт в отдельную публичную витрину проекта — с небольшими галереями, решениями и честными ограничениями. Приватные исходники туда не входят.
 
-### TEMPO PULSE
+### Уже можно открыть
 
-<p>
-  <img src="./assets/projects/tempo.jpg" alt="Главный экран фитнес-приложения TEMPO PULSE" width="100%" />
+Здесь не только макеты: TEMPO доступен как PWA, а X‑TREME работает через публичную ссылку Telegram.
+
+<p align="center">
+  <a href="https://github.com/mrjakeball/tempo-pulse-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/card.svg" alt="TEMPO PULSE — открыть витрину" width="520" /></a>
+  <a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/xtreme-shop-bot-showcase/main/assets/card.svg" alt="X-TREME Shop Bot — открыть витрину" width="520" /></a>
 </p>
 
-Мобильный PWA для тренировок, питания и отслеживания прогресса с локальным хранением данных и офлайн-сценариями.
-
-`React 19` `TypeScript` `Dexie` `WebAuthn` `PWA`
-
-[Открыть приложение](https://tempo-fitness-pwa.pages.dev/) · **Статус:** развивается, исходный код пока приватный
-
-### Кодограф ВВГУ
-
-<p>
-  <img src="./assets/projects/kodograf.jpg" alt="Редактор и запущенный Python-код в проекте Кодограф ВВГУ" width="100%" />
+<p align="center">
+  <a href="https://tempo-fitness-pwa.pages.dev/"><img src="https://img.shields.io/badge/TEMPO_LIVE-161B22?style=for-the-badge&amp;logo=pwa&amp;logoColor=58A6FF" alt="Открыть TEMPO PULSE" height="30" /></a>
+  <a href="https://t.me/XtremeShopBot"><img src="https://img.shields.io/badge/POIZON_BOT-161B22?style=for-the-badge&amp;logo=telegram&amp;logoColor=58A6FF" alt="Открыть X-TREME Shop Bot в Telegram" height="30" /></a>
 </p>
 
-Образовательная среда с редактором Monaco, запуском Python прямо в браузере, уроками и проверкой решений.
+### Обучение и продуктовые сценарии
 
-`Next.js` `Monaco` `Pyodide` `Web Worker` `Sandbox`
+В Кодографе главный объект — работающий редактор и выполнение Python. В Pashtel — цельный путь от витрины до проверки заказа.
 
-**Статус:** репозиторий готовится к публикации
-
-### Pashtel
-
-<p>
-  <img src="./assets/projects/pashtel.jpg" alt="Главная страница интернет-витрины Pashtel" width="100%" />
+<p align="center">
+  <a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/card.svg" alt="Кодограф ВВГУ — открыть витрину" width="520" /></a>
+  <a href="https://github.com/mrjakeball/pashtel-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/pashtel-showcase/main/assets/card.svg" alt="Pashtel — открыть витрину" width="520" /></a>
 </p>
 
-Адаптивная интернет-витрина пекарни с каталогом, корзиной, пятишаговым checkout и серверным пересчётом заказа.
+### Интерактив и инженерная практика
 
-`Next.js` `TypeScript` `API` `Checkout` `Accessibility`
+NOCTRA исследует 3D-объект через движение и свет; World Cup собирает сложную турнирную логику; Trainer превращает теорию Linux и DevOps в практические сценарии.
 
-**Статус:** демонстрационная версия готовится к публикации
-
-### NOCTRA / LUCID-1
-
-<p>
-  <img src="./assets/projects/noctra.png" alt="Интерактивная 3D-сцена проекта NOCTRA" width="100%" />
+<p align="center">
+  <a href="https://github.com/mrjakeball/noctra-lucid-1-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/noctra-lucid-1-showcase/main/assets/card.svg" alt="NOCTRA / LUCID-1 — открыть витрину" width="520" /></a>
+  <a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/world-cup-2026-predictor-showcase/main/assets/card.svg" alt="World Cup 2026 Predictor — открыть витрину" width="520" /></a>
 </p>
 
-Интерактивный 3D-проект с процедурной моделью, PBR-материалами, светом, звуком и анимацией при прокрутке.
-
-`React` `React Three Fiber` `Three.js` `GSAP` `Web Audio`
-
-**Статус:** репозиторий готовится к публикации
-
-### World Cup 2026 Predictor
-
-<p>
-  <img src="./assets/projects/world-cup.jpg" alt="Экран выбора игроков World Cup 2026 Predictor" width="100%" />
+<p align="center">
+  <a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/card.svg" alt="Linux &amp; DevOps Trainer — открыть витрину" width="520" /></a>
 </p>
 
-Клиентский конструктор прогноза турнира: группы, плей-офф, награды, локальные сохранения и экспорт результата.
+### Следующий проект · iOS
 
-`React` `TypeScript` `Vite` `Zustand` `Vitest`
+CineFlow уже разложен на честный roadmap: нативный каталог, карточка фильма, избранное и легальное воспроизведение трейлеров. Код ещё не начат — витрина показывает план, а не выдуманный результат.
 
-**Статус:** в разработке, исходный код пока приватный
-
-### Linux & DevOps Trainer
-
-<p>
-  <img src="./assets/projects/devops-trainer.jpg" alt="Интерфейс тренажёра Linux и DevOps" width="100%" />
+<p align="center">
+  <a href="https://github.com/mrjakeball/cineflow-ios-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/cineflow-ios-showcase/main/assets/card.svg" alt="CineFlow iOS — открыть план проекта" width="520" /></a>
 </p>
 
-Тренажёр для подготовки к собеседованиям с теорией, терминалом, практическими лабораториями и симуляциями.
-
-`Python` `Streamlit` `Linux` `DevOps` `Testing`
-
-**Статус:** репозиторий готовится к публикации
+<p align="center">
+  <a href="https://github.com/mrjakeball/portfolio"><img src="https://img.shields.io/badge/ВЕСЬ_КАТАЛОГ_ПРОЕКТОВ-8B5CF6?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Открыть каталог проектов" height="30" /></a>
+</p>
