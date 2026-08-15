@@ -172,13 +172,13 @@ An interactive procedural 3D study driven by light and motion.
 
 ### World Cup 2026 Predictor
 
-`REACT` · `STATE` · `EXPORT`
+`REACT` · `ZUSTAND` · `EXPORT`
 
 Tournament predictions from the group stage to awards and result export.
 
 <a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/world-cup-2026-predictor-showcase/main/assets/card.svg" alt="World Cup 2026 Predictor" width="520" /></a>
 
-**[View showcase →](https://github.com/mrjakeball/world-cup-2026-predictor-showcase)**
+**[View showcase →](https://github.com/mrjakeball/world-cup-2026-predictor-showcase)** · **[Open site ↗](https://courageous-elf-34b597.netlify.app)**
 
 </div>
 
