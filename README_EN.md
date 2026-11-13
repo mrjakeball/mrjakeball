@@ -33,13 +33,16 @@ I'm currently developing my skills in **Python, DevOps, QA and web development**
 
 <a id="focus"></a>
 
+
 ## 🎯 Current focus
 
 - 🐍 **Python** — automation and practical applications
 - 🐧 **Linux / Docker** — infrastructure and DevOps fundamentals
-- 🧪 **QA** — testing and software quality
+- 🧪 **QA** — software testing, test cases, bug reports and test design
+- 🧩 **1C:Enterprise 8.3** — introductory university experience with catalogs, documents, registers and posting
 - 🌐 **Web** — JavaScript, TypeScript and React
 - 🔧 **Git / GitHub** — projects and documentation
+
 
 <a id="stack"></a>
 
