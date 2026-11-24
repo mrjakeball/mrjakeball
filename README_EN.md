@@ -9,51 +9,48 @@
 <a href="https://github.com/mrjakeball/portfolio/blob/main/README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/catalog-en.svg" height="32" alt="Project catalogue"></a>
 </p>
 
-**I build web applications and study how to test their security.**
+I study Information Systems and Technologies at Vladivostok State University and build web apps and learning tools. My AppSec and QA work starts with concrete questions: who can read a record, what an API accepts, and what changes after a fix.
 
-I study Information Systems and Technologies at Vladivostok State University. In Python and web development, I pay particular attention to how an application behaves for the user and what happens when something goes wrong.
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/practice-en-dark.svg"><img src="assets/ui/practice-en-light.svg" width="325" alt="Engineering practice"></picture></h2>
 
-## Engineering practice
+| Practice | Inside the repository |
+| --- | --- |
+| **[AppSec Labs](https://github.com/mrjakeball/appsec-labs/blob/main/README_EN.md)** | Access-control observations from PortSwigger. Bandit and Semgrep findings before and after Python fixes. |
+| **[API Testing](https://github.com/mrjakeball/qa-learning-portfolio/blob/main/README_EN.md)** | A Postman collection for JSONPlaceholder covering status codes, response fields and missing records. |
 
-**Access control and code analysis**  
-I explore authorization in PortSwigger training applications and compare Bandit and Semgrep findings before and after fixes to Python code. [Explore AppSec Labs →](https://github.com/mrjakeball/appsec-labs/blob/main/README_EN.md)
-
-**Functional API testing**  
-My Postman assertions cover HTTP status, JSON fields and the response to a missing record. [Explore the QA collection →](https://github.com/mrjakeball/qa-learning-portfolio/blob/main/README_EN.md)
-
-## Selected projects
-
-### [Kodograf VVGU](https://github.com/mrjakeball/kodograf-vvgu-showcase/blob/main/README_EN.md)
-
-A lesson, editor and Python output in one tab. Monaco handles editing, and Pyodide runs the student’s code in a Web Worker.
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/projects-en-dark.svg"><img src="assets/ui/projects-en-light.svg" width="325" alt="Selected projects"></picture></h2>
 
 [![Kodograf VVGU — Editor and execution output](https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/kodograf-vvgu-showcase/blob/main/README_EN.md)
 
-### [Linux & DevOps Trainer](https://github.com/mrjakeball/linux-devops-trainer-showcase/blob/main/README_EN.md)
+**Kodograf VVGU**　Students edit a solution in Monaco and read the Python output in the same tab. A Web Worker handles execution.
 
-Filesystem lessons lead into command practice. A simulator processes input, with exercise logic kept separate from the interface.
+[Explore the editor ↗](https://github.com/mrjakeball/kodograf-vvgu-showcase/blob/main/README_EN.md)
 
 [![Linux & DevOps Trainer — Filesystem lesson](https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/linux-devops-trainer-showcase/blob/main/README_EN.md)
 
-### [TEMPO PULSE](https://github.com/mrjakeball/tempo-pulse-showcase/blob/main/README_EN.md)
+**Linux & DevOps Trainer**　A filesystem lesson leads into a simulated terminal. Commands update the exercise state without opening a system shell.
 
-A mobile diary for workouts, nutrition and progress. Core records stay on the device.
+[Explore the lesson ↗](https://github.com/mrjakeball/linux-devops-trainer-showcase/blob/main/README_EN.md)
 
 [![TEMPO PULSE — Daily overview](https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/tempo-pulse-showcase/blob/main/README_EN.md)
 
-[All projects and demos →](https://github.com/mrjakeball/portfolio/blob/main/README_EN.md)
+**TEMPO PULSE**　Meals, sleep and the next workout meet in one daily overview. The diary keeps its core records on the device.
 
-## Tools in practice
+[Explore the diary ↗](https://github.com/mrjakeball/tempo-pulse-showcase/blob/main/README_EN.md)
 
-**Development**　Python, TypeScript, React, Git  
-**Testing**　Burp Suite Community, Bandit, Semgrep, Postman  
-**Infrastructure**　currently studying Linux and Docker
+**[Full project catalogue →](https://github.com/mrjakeball/portfolio/blob/main/README_EN.md)**
 
-## GitHub
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/tools-en-dark.svg"><img src="assets/ui/tools-en-light.svg" width="325" alt="Toolbox"></picture></h2>
 
-[12 public repositories](https://github.com/mrjakeball?tab=repositories) · [Contribution activity](https://github.com/mrjakeball#js-contribution-activity)  
-<sub>Repository count as of 24 November 2026</sub>
+| Task | Tools |
+| --- | --- |
+| Building apps | Python, TypeScript, React, Git |
+| Checking code and APIs | Bandit, Semgrep, Postman, Burp Suite Community |
+| Learning infrastructure | Linux, Docker |
 
-## Contact
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/contact-en-dark.svg"><img src="assets/ui/contact-en-light.svg" width="325" alt="Get in touch"></picture></h2>
 
-[Telegram · @a1e5hka](https://t.me/a1e5hka)　·　[kuzmin_aleksey2004@mail.ru](mailto:kuzmin_aleksey2004@mail.ru)　·　[GitHub](https://github.com/mrjakeball)
+**Telegram**　[@a1e5hka](https://t.me/a1e5hka)  
+**Email**　[kuzmin_aleksey2004@mail.ru](mailto:kuzmin_aleksey2004@mail.ru)
+
+<sub>GitHub · <a href="https://github.com/mrjakeball">@mrjakeball</a> · <a href="https://github.com/mrjakeball?tab=repositories">12 public repositories on 24 Nov 2026</a> · <a href="https://github.com/mrjakeball#js-contribution-activity">Contribution graph</a></sub>

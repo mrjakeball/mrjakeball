@@ -9,51 +9,48 @@
 <a href="https://github.com/mrjakeball/portfolio"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/catalog-ru.svg" height="32" alt="Каталог проектов"></a>
 </p>
 
-**Разрабатываю веб-приложения и учусь проверять их безопасность.**
+Изучаю информационные системы и технологии в ВВГУ, Владивосток. Разрабатываю учебные веб-приложения и тренажёры. В AppSec и QA разбираю конкретные вопросы: кто может прочитать запись, какие данные принимает API и что меняется после исправления кода.
 
-Студент ВВГУ по направлению «Информационные системы и технологии». В работе с Python и вебом меня интересуют две вещи: как приложение ведёт себя в руках пользователя и что происходит при ошибке.
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/practice-ru-dark.svg"><img src="assets/ui/practice-ru-light.svg" width="325" alt="Инженерная практика"></picture></h2>
 
-## Инженерная практика
+| Направление | Что можно посмотреть |
+| --- | --- |
+| **[AppSec Labs](https://github.com/mrjakeball/appsec-labs)** | Разбор прав доступа в PortSwigger. Отчёты Bandit и Semgrep до и после правок в Python. |
+| **[API Testing](https://github.com/mrjakeball/qa-learning-portfolio)** | Коллекция Postman для JSONPlaceholder. Проверки HTTP-статуса, полей ответа и запроса отсутствующей записи. |
 
-**Контроль доступа и анализ кода**  
-Разбираю права пользователей в учебных приложениях PortSwigger. Сравниваю отчёты Bandit и Semgrep до и после исправлений в Python. [Открыть AppSec Labs →](https://github.com/mrjakeball/appsec-labs)
-
-**Функциональное тестирование API**  
-Пишу проверки в Postman: сверяю HTTP-статус, поля JSON и поведение API при отсутствии записи. [Посмотреть QA-коллекцию →](https://github.com/mrjakeball/qa-learning-portfolio)
-
-## Избранные проекты
-
-### [Кодограф ВВГУ](https://github.com/mrjakeball/kodograf-vvgu-showcase)
-
-Урок, редактор и результат Python в одной вкладке. Monaco отвечает за ввод кода, Pyodide выполняет его в отдельном Web Worker.
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/projects-ru-dark.svg"><img src="assets/ui/projects-ru-light.svg" width="325" alt="Избранные проекты"></picture></h2>
 
 [![Кодограф ВВГУ — Редактор и результат запуска](https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/kodograf-vvgu-showcase)
 
-### [Linux & DevOps Trainer](https://github.com/mrjakeball/linux-devops-trainer-showcase)
+**Кодограф ВВГУ**　Студент решает задачу в Monaco и видит вывод Python в той же вкладке. Выполнение кода вынесено в Web Worker.
 
-Тема о файловой системе переходит в практику с командами. Тренажёр обрабатывает их в симуляторе и отдельно хранит логику упражнений.
+[Посмотреть редактор ↗](https://github.com/mrjakeball/kodograf-vvgu-showcase)
 
 [![Linux & DevOps Trainer — Тема о файловой системе](https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/linux-devops-trainer-showcase)
 
-### [TEMPO PULSE](https://github.com/mrjakeball/tempo-pulse-showcase)
+**Linux & DevOps Trainer**　От теории файловой системы — к командам в учебном терминале. Симулятор меняет состояние упражнения, не обращаясь к оболочке компьютера.
 
-Мобильный дневник объединяет тренировки, питание и прогресс. Основные записи хранятся на устройстве.
+[Посмотреть урок ↗](https://github.com/mrjakeball/linux-devops-trainer-showcase)
 
 [![TEMPO PULSE — Сводка дня](https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/tempo-pulse-showcase)
 
-[Все проекты и демоверсии →](https://github.com/mrjakeball/portfolio)
+**TEMPO PULSE**　Питание, сон и следующая тренировка собраны в сводке дня. Основные записи дневника остаются на устройстве.
 
-## С чем работаю
+[Посмотреть дневник ↗](https://github.com/mrjakeball/tempo-pulse-showcase)
 
-**Разработка**　Python, TypeScript, React, Git  
-**Проверки**　Burp Suite Community, Bandit, Semgrep, Postman  
-**Инфраструктура**　изучаю Linux и Docker
+**[Весь каталог проектов →](https://github.com/mrjakeball/portfolio)**
 
-## GitHub
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/tools-ru-dark.svg"><img src="assets/ui/tools-ru-light.svg" width="325" alt="Инструменты"></picture></h2>
 
-[12 публичных репозиториев](https://github.com/mrjakeball?tab=repositories) · [Активность и вклад](https://github.com/mrjakeball#js-contribution-activity)  
-<sub>Срез на 24 ноября 2026 года</sub>
+| Задача | Инструменты |
+| --- | --- |
+| Пишу приложения | Python, TypeScript, React, Git |
+| Проверяю код и API | Bandit, Semgrep, Postman, Burp Suite Community |
+| Осваиваю инфраструктуру | Linux, Docker |
 
-## Контакты
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/contact-ru-dark.svg"><img src="assets/ui/contact-ru-light.svg" width="325" alt="Для связи"></picture></h2>
 
-[Telegram · @a1e5hka](https://t.me/a1e5hka)　·　[kuzmin_aleksey2004@mail.ru](mailto:kuzmin_aleksey2004@mail.ru)　·　[GitHub](https://github.com/mrjakeball)
+**Telegram**　[@a1e5hka](https://t.me/a1e5hka)  
+**Почта**　[kuzmin_aleksey2004@mail.ru](mailto:kuzmin_aleksey2004@mail.ru)
+
+<sub>GitHub · <a href="https://github.com/mrjakeball">@mrjakeball</a> · <a href="https://github.com/mrjakeball?tab=repositories">12 публичных репозиториев на 24.11.2026</a> · <a href="https://github.com/mrjakeball#js-contribution-activity">График активности</a></sub>
