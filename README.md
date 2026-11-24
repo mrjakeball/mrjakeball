@@ -1,19 +1,25 @@
-**RU** · [EN](README_EN.md)　 /　 [Каталог проектов](https://github.com/mrjakeball/portfolio)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ru-dark.svg">
   <img src="assets/ru-light.svg" alt="Алексей Кузьмин" width="100%">
 </picture>
 
-Учусь на направлении «Информационные системы и технологии» во ВВГУ, Владивосток. Разрабатываю учебные веб-приложения и изучаю AppSec, QA и DevOps. Здесь показываю, как устроены проекты, что именно проверял и какие результаты сохранил.
+<p>
+<a href="README.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/ru-on.svg" height="32" alt="Русский · выбран"></a>
+<a href="README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/en-off.svg" height="32" alt="English"></a>
+<a href="https://github.com/mrjakeball/portfolio"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/catalog-ru.svg" height="32" alt="Каталог проектов"></a>
+</p>
+
+**Разрабатываю веб-приложения и учусь проверять их безопасность.**
+
+Студент ВВГУ по направлению «Информационные системы и технологии». В работе с Python и вебом меня интересуют две вещи: как приложение ведёт себя в руках пользователя и что происходит при ошибке.
 
 ## Инженерная практика
 
-**[Application Security · AppSec Labs](https://github.com/mrjakeball/appsec-labs)**  
-В трёх работах PortSwigger разбираю, кто может выполнить действие и к чьим данным оно даёт доступ. Ещё в двух сравниваю предупреждения Bandit и Semgrep до и после правок в Python.
+**Контроль доступа и анализ кода**  
+Разбираю права пользователей в учебных приложениях PortSwigger. Сравниваю отчёты Bandit и Semgrep до и после исправлений в Python. [Открыть AppSec Labs →](https://github.com/mrjakeball/appsec-labs)
 
-**[QA · Postman](https://github.com/mrjakeball/qa-learning-portfolio)**  
-Начальная коллекция содержит 11 проверок для трёх запросов. В отдельной [работе по REST API](https://github.com/mrjakeball/appsec-labs/blob/main/api-testing/01-rest-api-fundamentals/README.md) сохранён запуск 34 проверок и описана последующая правка экспорта.
+**Функциональное тестирование API**  
+Пишу проверки в Postman: сверяю HTTP-статус, поля JSON и поведение API при отсутствии записи. [Посмотреть QA-коллекцию →](https://github.com/mrjakeball/qa-learning-portfolio)
 
 ## Избранные проекты
 

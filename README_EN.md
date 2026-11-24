@@ -1,19 +1,25 @@
-[RU](README.md) · **EN**　 /　 [Project catalogue](https://github.com/mrjakeball/portfolio/blob/main/README_EN.md)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/en-dark.svg">
   <img src="assets/en-light.svg" alt="Aleksei Kuzmin" width="100%">
 </picture>
 
-I study Information Systems and Technologies at Vladivostok State University. I build web applications as learning projects and study AppSec, QA and DevOps. This portfolio documents how the projects work, what I tested and what evidence I kept.
+<p>
+<a href="README.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/ru-off.svg" height="32" alt="Русский"></a>
+<a href="README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/en-on.svg" height="32" alt="English · selected"></a>
+<a href="https://github.com/mrjakeball/portfolio/blob/main/README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/catalog-en.svg" height="32" alt="Project catalogue"></a>
+</p>
+
+**I build web applications and study how to test their security.**
+
+I study Information Systems and Technologies at Vladivostok State University. In Python and web development, I pay particular attention to how an application behaves for the user and what happens when something goes wrong.
 
 ## Engineering practice
 
-**[Application Security · AppSec Labs](https://github.com/mrjakeball/appsec-labs/blob/main/README_EN.md)**  
-Three PortSwigger reports examine who may perform an action and whose data it exposes. Two more compare Bandit and Semgrep findings before and after Python fixes.
+**Access control and code analysis**  
+I explore authorization in PortSwigger training applications and compare Bandit and Semgrep findings before and after fixes to Python code. [Explore AppSec Labs →](https://github.com/mrjakeball/appsec-labs/blob/main/README_EN.md)
 
-**[QA · Postman](https://github.com/mrjakeball/qa-learning-portfolio/blob/main/README_EN.md)**  
-The starter collection contains 11 assertions across three requests. A separate [REST API exercise](https://github.com/mrjakeball/appsec-labs/blob/main/api-testing/01-rest-api-fundamentals/README_EN.md) documents a 34-assertion run and a later export correction.
+**Functional API testing**  
+My Postman assertions cover HTTP status, JSON fields and the response to a missing record. [Explore the QA collection →](https://github.com/mrjakeball/qa-learning-portfolio/blob/main/README_EN.md)
 
 ## Selected projects
 
