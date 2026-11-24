@@ -1,226 +1,53 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="Aleksei Kuzmin — learning, building, improving" width="100%" />
-</p>
+**RU** · [EN](README_EN.md)　 /　 [Каталог проектов](https://github.com/mrjakeball/portfolio)
 
-<p align="center">
-  <a href="./README.md"><img src="https://img.shields.io/badge/РУССКИЙ-8B5CF6?style=for-the-badge" alt="Русский" height="30" /></a>
-  &nbsp;
-  <a href="./README_EN.md"><img src="https://img.shields.io/badge/ENGLISH-21262D?style=for-the-badge" alt="English" height="30" /></a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ru-dark.svg">
+  <img src="assets/ru-light.svg" alt="Алексей Кузьмин" width="100%">
+</picture>
 
-<p align="center">
-  <strong>Учусь через практику — создаю проекты, проверяю идеи и постепенно улучшаю результат.</strong>
-  <br />
-  <sub>Python · DevOps · QA · Web</sub>
-</p>
+Учусь на направлении «Информационные системы и технологии» во ВВГУ, Владивосток. Разрабатываю учебные веб-приложения и изучаю AppSec, QA и DevOps. Здесь показываю, как устроены проекты, что именно проверял и какие результаты сохранил.
 
-<p align="center">
-  <a href="#projects"><img src="https://img.shields.io/badge/🚀_ПРОЕКТЫ-21262D?style=for-the-badge" alt="Проекты" height="27" /></a>
-  <a href="#focus"><img src="https://img.shields.io/badge/🎯_ФОКУС-21262D?style=for-the-badge" alt="Фокус" height="27" /></a>
-  <a href="#stack"><img src="https://img.shields.io/badge/🧰_СТЕК-21262D?style=for-the-badge" alt="Стек" height="27" /></a>
-  <a href="https://github.com/mrjakeball/portfolio"><img src="https://img.shields.io/badge/📚_КАТАЛОГ-21262D?style=for-the-badge" alt="Каталог проектов" height="27" /></a>
-</p>
+## Инженерная практика
 
----
+**[Application Security · AppSec Labs](https://github.com/mrjakeball/appsec-labs)**  
+В трёх работах PortSwigger разбираю, кто может выполнить действие и к чьим данным оно даёт доступ. Ещё в двух сравниваю предупреждения Bandit и Semgrep до и после правок в Python.
 
-## 👋 Обо мне
+**[QA · Postman](https://github.com/mrjakeball/qa-learning-portfolio)**  
+Начальная коллекция содержит 11 проверок для трёх запросов. В отдельной [работе по REST API](https://github.com/mrjakeball/appsec-labs/blob/main/api-testing/01-rest-api-fundamentals/README.md) сохранён запуск 34 проверок и описана последующая правка экспорта.
 
-Я **Алексей**. Учусь разработке через реальные задачи: создаю проекты, проверяю основные сценарии и постепенно довожу результат до законченного состояния.
+## Избранные проекты
 
-Сейчас развиваюсь в **Python, DevOps, QA и веб-разработке**.
+### [Кодограф ВВГУ](https://github.com/mrjakeball/kodograf-vvgu-showcase)
 
-> 🔄 **Мой подход:** собрать → проверить → объяснить → улучшить.
+Урок, редактор и результат Python в одной вкладке. Monaco отвечает за ввод кода, Pyodide выполняет его в отдельном Web Worker.
 
-<a id="focus"></a>
+[![Кодограф ВВГУ — Редактор и результат запуска](https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/kodograf-vvgu-showcase)
 
+### [Linux & DevOps Trainer](https://github.com/mrjakeball/linux-devops-trainer-showcase)
 
-## 🎯 Сейчас в фокусе
+Тема о файловой системе переходит в практику с командами. Тренажёр обрабатывает их в симуляторе и отдельно хранит логику упражнений.
 
-- 🐍 **Python** — автоматизация и практические приложения
-- 🐧 **Linux / Docker** — инфраструктура и основы DevOps
-- 🧪 **QA** — тестирование ПО, тест-кейсы, баг-репорты и тест-дизайн
-- 🧩 **1С:Предприятие 8.3** — знакомство с платформой в университете: справочники, документы, регистры и проведение
-- 🌐 **Web** — JavaScript, TypeScript и React
-- 🔧 **Git / GitHub** — проекты и документация
+[![Linux & DevOps Trainer — Тема о файловой системе](https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/linux-devops-trainer-showcase)
 
+### [TEMPO PULSE](https://github.com/mrjakeball/tempo-pulse-showcase)
 
-<a id="stack"></a>
+Мобильный дневник объединяет тренировки, питание и прогресс. Основные записи хранятся на устройстве.
 
-## 🧰 Использую и изучаю
+[![TEMPO PULSE — Сводка дня](https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/tempo-pulse-showcase)
 
-| Категория | Технологии |
-| :--- | :--- |
-| 💻 **Языки** | ![Python](https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=8B5CF6) ![JavaScript](https://img.shields.io/badge/JavaScript-21262D?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-21262D?style=flat-square&logo=typescript&logoColor=3178C6) ![SQL](https://img.shields.io/badge/SQL-21262D?style=flat-square&logo=postgresql&logoColor=4169E1) |
-| 🌐 **Web** | ![React](https://img.shields.io/badge/React-21262D?style=flat-square&logo=react&logoColor=61DAFB) |
-| ⚙️ **DevOps** | ![Linux](https://img.shields.io/badge/Linux-21262D?style=flat-square&logo=linux&logoColor=FCC624) ![Docker](https://img.shields.io/badge/Docker-21262D?style=flat-square&logo=docker&logoColor=2496ED) ![Git](https://img.shields.io/badge/Git-21262D?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=FFFFFF) |
-| 🗄️ **Данные** | ![SQLite](https://img.shields.io/badge/SQLite-21262D?style=flat-square&logo=sqlite&logoColor=58A6FF) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262D?style=flat-square&logo=postgresql&logoColor=4169E1) |
-| 🧪 **Практика** | `QA` · `Testing` · `REST API` · `GitHub Markdown` |
+[Все проекты и демоверсии →](https://github.com/mrjakeball/portfolio)
 
-<a id="projects"></a>
+## С чем работаю
 
-## 🚀 Проекты
+**Разработка**　Python, TypeScript, React, Git  
+**Проверки**　Burp Suite Community, Bandit, Semgrep, Postman  
+**Инфраструктура**　изучаю Linux и Docker
 
-Несколько работ, которые показывают разные стороны моей практики.
+## GitHub
 
-### ✅ Можно запустить
+[12 публичных репозиториев](https://github.com/mrjakeball?tab=repositories) · [Активность и вклад](https://github.com/mrjakeball#js-contribution-activity)  
+<sub>Срез на 24 ноября 2026 года</sub>
 
-<div align="center">
+## Контакты
 
-### TEMPO PULSE
-
-`PWA` · `FITNESS` · `REACT`
-
-Тренировки, питание и прогресс в одном мобильном приложении.
-
-<a href="https://github.com/mrjakeball/tempo-pulse-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/card.svg" alt="TEMPO PULSE" width="520" /></a>
-
-**[Смотреть витрину →](https://github.com/mrjakeball/tempo-pulse-showcase)** · **[Открыть PWA ↗](https://tempo-fitness-pwa.pages.dev/)**
-
-</div>
-
-<br />
-
-<div align="center">
-
-### X-TREME Shop Bot
-
-`TELEGRAM` · `PYTHON` · `COMMERCE`
-
-Расчёт заказов с Poizon и Taobao и пошаговое оформление заявки.
-
-<a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/xtreme-shop-bot-showcase/main/assets/card.svg" alt="X-TREME Shop Bot" width="520" /></a>
-
-**[Смотреть витрину →](https://github.com/mrjakeball/xtreme-shop-bot-showcase)** · **[Открыть в Telegram ↗](https://t.me/XtremeShopBot)**
-
-</div>
-
-<br />
-
-### 🛠️ Инженерная практика
-
-<div align="center">
-
-### Linux & DevOps Trainer
-
-`LINUX` · `DEVOPS` · `TESTING`
-
-Теория, терминал и практические инженерные сценарии в одном тренажёре.
-
-<a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/card.svg" alt="Linux & DevOps Trainer" width="520" /></a>
-
-**[Смотреть витрину →](https://github.com/mrjakeball/linux-devops-trainer-showcase)**
-
-</div>
-
-<br />
-
-<details>
-<summary><strong>📂 Показать ещё 4 проекта</strong></summary>
-
-<br />
-
-### 🎓 Учебные и продуктовые проекты
-
-<div align="center">
-
-### Кодограф ВВГУ
-
-`PYTHON` · `EDTECH`
-
-Код, уроки и запуск Python прямо в браузере.
-
-<a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/card.svg" alt="Кодограф ВВГУ" width="520" /></a>
-
-**[Смотреть витрину →](https://github.com/mrjakeball/kodograf-vvgu-showcase)**
-
-</div>
-
-<br />
-
-<div align="center">
-
-### Pashtel
-
-`E-COMMERCE` · `UX`
-
-Адаптивная витрина пекарни и пошаговое оформление заказа.
-
-<a href="https://github.com/mrjakeball/pashtel-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/pashtel-showcase/main/assets/card.svg" alt="Pashtel" width="520" /></a>
-
-**[Смотреть витрину →](https://github.com/mrjakeball/pashtel-showcase)**
-
-</div>
-
-<br />
-
-### 🧩 Интерактив
-
-<div align="center">
-
-### NOCTRA / LUCID-1
-
-`3D` · `R3F` · `GSAP`
-
-Интерактивное исследование процедурного 3D-объекта через свет и движение.
-
-<a href="https://github.com/mrjakeball/noctra-lucid-1-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/noctra-lucid-1-showcase/main/assets/card.svg" alt="NOCTRA / LUCID-1" width="520" /></a>
-
-**[Смотреть витрину →](https://github.com/mrjakeball/noctra-lucid-1-showcase)**
-
-</div>
-
-<br />
-
-<div align="center">
-
-### World Cup 2026 Predictor
-
-`REACT` · `ZUSTAND` · `EXPORT`
-
-Турнирный прогноз от группового этапа до наград и экспорта результата.
-
-<a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/world-cup-2026-predictor-showcase/main/assets/card.svg" alt="World Cup 2026 Predictor" width="520" /></a>
-
-**[Смотреть витрину →](https://github.com/mrjakeball/world-cup-2026-predictor-showcase)** · **[Открыть сайт ↗](https://courageous-elf-34b597.netlify.app)**
-
-</div>
-
-</details>
-
-<br />
-
-### 📱 Следующий проект · iOS
-
-<div align="center">
-
-### CineFlow
-
-`SWIFT` · `UIKIT` · `ROADMAP`
-
-План первого полноценного нативного iOS-проекта.
-
-<a href="https://github.com/mrjakeball/cineflow-ios-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/cineflow-ios-showcase/main/assets/card.svg" alt="CineFlow iOS" width="520" /></a>
-
-**[Посмотреть roadmap →](https://github.com/mrjakeball/cineflow-ios-showcase)**
-
-<sub>Код ещё не начат.</sub>
-
-</div>
-
-<br />
-
-<p align="center">
-  <a href="https://github.com/mrjakeball/portfolio"><img src="https://img.shields.io/badge/ВЕСЬ_КАТАЛОГ_ПРОЕКТОВ-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Каталог проектов" height="31" /></a>
-</p>
-
----
-
-## 📫 Контакты
-
-<p>
-  <a href="https://t.me/a1e5hka"><img src="https://img.shields.io/badge/TELEGRAM-21262D?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" /></a>
-  <a href="mailto:kuzmin_aleksey2004@mail.ru"><img src="https://img.shields.io/badge/EMAIL-21262D?style=for-the-badge&logo=maildotru&logoColor=8B5CF6" alt="Email" /></a>
-  <a href="https://github.com/mrjakeball"><img src="https://img.shields.io/badge/GITHUB-21262D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
-</p>
-
-<sub>Профиль и проекты обновляются вместе с моей практикой и обучением.</sub>
+[Telegram · @a1e5hka](https://t.me/a1e5hka)　·　[kuzmin_aleksey2004@mail.ru](mailto:kuzmin_aleksey2004@mail.ru)　·　[GitHub](https://github.com/mrjakeball)
