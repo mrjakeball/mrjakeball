@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ru-dark.svg">
-  <img src="assets/ru-light.svg" alt="Алексей Кузьмин" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/panorama-ru-dark.svg">
+  <img src="assets/panorama-ru-light.svg" alt="Алексей Кузьмин" width="100%">
 </picture>
 
 <p>
@@ -15,8 +15,8 @@
 
 | Направление | Что можно посмотреть |
 | --- | --- |
-| <a href="https://github.com/mrjakeball/appsec-labs"><img src="assets/actions/appsec.svg" height="36" alt="AppSec Labs"></a> | Разбор прав доступа в PortSwigger. Отчёты Bandit и Semgrep до и после правок в Python. |
-| <a href="https://github.com/mrjakeball/qa-learning-portfolio"><img src="assets/actions/api.svg" height="36" alt="API Testing"></a> | Коллекция Postman для JSONPlaceholder. Проверки HTTP-статуса, полей ответа и запроса отсутствующей записи. |
+| <a href="https://github.com/mrjakeball/appsec-labs"><img src="assets/links/appsec.svg" height="36" alt="AppSec Labs"></a> | Разбор прав доступа в PortSwigger. Отчёты Bandit и Semgrep до и после правок в Python. |
+| <a href="https://github.com/mrjakeball/qa-learning-portfolio"><img src="assets/links/api.svg" height="36" alt="API Testing"></a> | Коллекция Postman для JSONPlaceholder. Проверки HTTP-статуса, полей ответа и запроса отсутствующей записи. |
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/projects-ru-dark.svg"><img src="assets/ui/projects-ru-light.svg" width="325" alt="Избранные проекты"></picture></h2>
 
@@ -24,21 +24,21 @@
 
 **Кодограф ВВГУ**　Студент решает задачу в Monaco и видит вывод Python в той же вкладке. Выполнение кода вынесено в Web Worker.
 
-<a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><img src="assets/actions/editor-ru.svg" height="36" alt="Посмотреть редактор"></a>
+<a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><img src="assets/links/editor-ru.svg" height="36" alt="Посмотреть редактор"></a>
 
 [![Linux & DevOps Trainer — Тема о файловой системе](https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/linux-devops-trainer-showcase)
 
 **Linux & DevOps Trainer**　От теории файловой системы — к командам в учебном терминале. Симулятор меняет состояние упражнения, не обращаясь к оболочке компьютера.
 
-<a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><img src="assets/actions/lesson-ru.svg" height="36" alt="Посмотреть урок"></a>
+<a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><img src="assets/links/lesson-ru.svg" height="36" alt="Посмотреть урок"></a>
 
 [![TEMPO PULSE — Сводка дня](https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/tempo-pulse-showcase)
 
 **TEMPO PULSE**　Питание, сон и следующая тренировка собраны в сводке дня. Основные записи дневника остаются на устройстве.
 
-<a href="https://github.com/mrjakeball/tempo-pulse-showcase"><img src="assets/actions/diary-ru.svg" height="36" alt="Посмотреть дневник"></a>
+<a href="https://github.com/mrjakeball/tempo-pulse-showcase"><img src="assets/links/diary-ru.svg" height="36" alt="Посмотреть дневник"></a>
 
-<a href="https://github.com/mrjakeball/portfolio"><img src="assets/actions/catalog-ru.svg" height="36" alt="Весь каталог проектов"></a>
+<a href="https://github.com/mrjakeball/portfolio"><img src="assets/links/catalog-ru.svg" height="36" alt="Весь каталог проектов"></a>
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/tools-ru-dark.svg"><img src="assets/ui/tools-ru-light.svg" width="325" alt="Инструменты"></picture></h2>
 
@@ -56,4 +56,4 @@
 <a href="https://github.com/mrjakeball"><img src="assets/actions/github.svg" height="54" alt="GitHub · @mrjakeball"></a>
 </p>
 
-<a href="https://github.com/mrjakeball?tab=repositories"><img src="assets/actions/repos-ru.svg" height="36" alt="Репозитории"></a>
+<a href="https://github.com/mrjakeball?tab=repositories"><img src="assets/links/repos-ru.svg" height="36" alt="Репозитории"></a>

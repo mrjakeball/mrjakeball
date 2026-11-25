@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/en-dark.svg">
-  <img src="assets/en-light.svg" alt="Aleksei Kuzmin" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/panorama-en-dark.svg">
+  <img src="assets/panorama-en-light.svg" alt="Aleksei Kuzmin" width="100%">
 </picture>
 
 <p>
@@ -15,8 +15,8 @@ I study Information Systems and Technologies at Vladivostok State University and
 
 | Practice | Inside the repository |
 | --- | --- |
-| <a href="https://github.com/mrjakeball/appsec-labs/blob/main/README_EN.md"><img src="assets/actions/appsec.svg" height="36" alt="AppSec Labs"></a> | Access-control observations from PortSwigger. Bandit and Semgrep findings before and after Python fixes. |
-| <a href="https://github.com/mrjakeball/qa-learning-portfolio/blob/main/README_EN.md"><img src="assets/actions/api.svg" height="36" alt="API Testing"></a> | A Postman collection for JSONPlaceholder covering status codes, response fields and missing records. |
+| <a href="https://github.com/mrjakeball/appsec-labs/blob/main/README_EN.md"><img src="assets/links/appsec.svg" height="36" alt="AppSec Labs"></a> | Access-control observations from PortSwigger. Bandit and Semgrep findings before and after Python fixes. |
+| <a href="https://github.com/mrjakeball/qa-learning-portfolio/blob/main/README_EN.md"><img src="assets/links/api.svg" height="36" alt="API Testing"></a> | A Postman collection for JSONPlaceholder covering status codes, response fields and missing records. |
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/projects-en-dark.svg"><img src="assets/ui/projects-en-light.svg" width="325" alt="Selected projects"></picture></h2>
 
@@ -24,21 +24,21 @@ I study Information Systems and Technologies at Vladivostok State University and
 
 **Kodograf VVGU**　Students edit a solution in Monaco and read the Python output in the same tab. A Web Worker handles execution.
 
-<a href="https://github.com/mrjakeball/kodograf-vvgu-showcase/blob/main/README_EN.md"><img src="assets/actions/editor-en.svg" height="36" alt="Explore the editor"></a>
+<a href="https://github.com/mrjakeball/kodograf-vvgu-showcase/blob/main/README_EN.md"><img src="assets/links/editor-en.svg" height="36" alt="Explore the editor"></a>
 
 [![Linux & DevOps Trainer — Filesystem lesson](https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/linux-devops-trainer-showcase/blob/main/README_EN.md)
 
 **Linux & DevOps Trainer**　A filesystem lesson leads into a simulated terminal. Commands update the exercise state without opening a system shell.
 
-<a href="https://github.com/mrjakeball/linux-devops-trainer-showcase/blob/main/README_EN.md"><img src="assets/actions/lesson-en.svg" height="36" alt="Explore the lesson"></a>
+<a href="https://github.com/mrjakeball/linux-devops-trainer-showcase/blob/main/README_EN.md"><img src="assets/links/lesson-en.svg" height="36" alt="Explore the lesson"></a>
 
 [![TEMPO PULSE — Daily overview](https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/tempo-pulse-showcase/blob/main/README_EN.md)
 
 **TEMPO PULSE**　Meals, sleep and the next workout meet in one daily overview. The diary keeps its core records on the device.
 
-<a href="https://github.com/mrjakeball/tempo-pulse-showcase/blob/main/README_EN.md"><img src="assets/actions/diary-en.svg" height="36" alt="Explore the diary"></a>
+<a href="https://github.com/mrjakeball/tempo-pulse-showcase/blob/main/README_EN.md"><img src="assets/links/diary-en.svg" height="36" alt="Explore the diary"></a>
 
-<a href="https://github.com/mrjakeball/portfolio/blob/main/README_EN.md"><img src="assets/actions/catalog-en.svg" height="36" alt="Full project catalogue"></a>
+<a href="https://github.com/mrjakeball/portfolio/blob/main/README_EN.md"><img src="assets/links/catalog-en.svg" height="36" alt="Full project catalogue"></a>
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/tools-en-dark.svg"><img src="assets/ui/tools-en-light.svg" width="325" alt="Toolbox"></picture></h2>
 
@@ -56,4 +56,4 @@ I study Information Systems and Technologies at Vladivostok State University and
 <a href="https://github.com/mrjakeball"><img src="assets/actions/github.svg" height="54" alt="GitHub · @mrjakeball"></a>
 </p>
 
-<a href="https://github.com/mrjakeball?tab=repositories"><img src="assets/actions/repos-en.svg" height="36" alt="Repositories"></a>
+<a href="https://github.com/mrjakeball?tab=repositories"><img src="assets/links/repos-en.svg" height="36" alt="Repositories"></a>
