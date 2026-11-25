@@ -48,7 +48,7 @@ I study Information Systems and Technologies at Vladivostok State University and
 | Checking code and APIs | Bandit, Semgrep, Postman, Burp Suite Community |
 | Learning infrastructure | Linux, Docker |
 
-<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/contact-en-dark.svg"><img src="assets/ui/contact-en-light.svg" width="325" alt="Get in touch"></picture></h2>
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/envelope-en-dark.svg"><img src="assets/ui/envelope-en-light.svg" width="325" alt="Get in touch"></picture></h2>
 
 <p>
 <a href="https://t.me/a1e5hka"><img src="assets/contact-cards/telegram.svg" height="54" alt="Telegram · @a1e5hka"></a>

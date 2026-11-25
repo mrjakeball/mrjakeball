@@ -48,7 +48,7 @@
 | Проверяю код и API | Bandit, Semgrep, Postman, Burp Suite Community |
 | Осваиваю инфраструктуру | Linux, Docker |
 
-<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/contact-ru-dark.svg"><img src="assets/ui/contact-ru-light.svg" width="325" alt="Для связи"></picture></h2>
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/envelope-ru-dark.svg"><img src="assets/ui/envelope-ru-light.svg" width="325" alt="Для связи"></picture></h2>
 
 <p>
 <a href="https://t.me/a1e5hka"><img src="assets/contact-cards/telegram.svg" height="54" alt="Telegram · @a1e5hka"></a>
