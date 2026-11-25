@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/panorama-en-dark.svg">
-  <img src="assets/panorama-en-light.svg" alt="Aleksei Kuzmin" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/flow-en-dark.svg">
+  <img src="assets/flow-en-light.svg" alt="Aleksei Kuzmin" width="100%">
 </picture>
 
 <p>

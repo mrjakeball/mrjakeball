@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/panorama-ru-dark.svg">
-  <img src="assets/panorama-ru-light.svg" alt="Алексей Кузьмин" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/flow-ru-dark.svg">
+  <img src="assets/flow-ru-light.svg" alt="Алексей Кузьмин" width="100%">
 </picture>
 
 <p>
