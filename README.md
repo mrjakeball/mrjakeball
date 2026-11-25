@@ -3,22 +3,22 @@
   <img src="assets/inlay-ru-light.svg" alt="Алексей Кузьмин" width="100%">
 </picture>
 
-<p align="center">
-<a href="README.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-on-compact.svg?v=2"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-on.svg?v=2" height="56" alt="Русский · выбран"></picture></a>
-<a href="README_EN.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-off-compact.svg?v=2"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-off.svg?v=2" height="56" alt="English"></picture></a>
-<a href="https://github.com/mrjakeball/portfolio"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/catalog-ru-compact.svg?v=2"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/catalog-ru.svg?v=2" height="56" alt="Каталог проектов"></picture></a>
+<p>
+<a href="README.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-on-compact.svg?v=3"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-on.svg?v=3" height="38" alt="Русский · выбран"></picture></a>
+<a href="README_EN.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-off-compact.svg?v=3"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-off.svg?v=3" height="38" alt="English"></picture></a>
+<a href="https://github.com/mrjakeball/portfolio"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/catalog-ru-compact.svg?v=3"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/catalog-ru.svg?v=3" height="38" alt="Каталог проектов"></picture></a>
 </p>
 
 Изучаю информационные системы и технологии в ВВГУ, Владивосток. Разрабатываю учебные веб-приложения и тренажёры. В AppSec и QA разбираю конкретные вопросы: кто может прочитать запись, какие данные принимает API и что меняется после исправления кода.
 
-<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/practice-ru-dark.svg"><img src="assets/ui/practice-ru-light.svg" width="325" alt="Инженерная практика"></picture></h2>
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/practice-ru-dark.svg?v=3"><img src="assets/ui/practice-ru-light.svg?v=3" width="325" alt="Инженерная практика"></picture></h2>
 
 | Направление | Что можно посмотреть |
 | --- | --- |
 | <a href="https://github.com/mrjakeball/appsec-labs"><img src="assets/buttons/appsec.svg" height="36" alt="AppSec Labs"></a> | Разбор прав доступа в PortSwigger. Отчёты Bandit и Semgrep до и после правок в Python. |
 | <a href="https://github.com/mrjakeball/qa-learning-portfolio"><img src="assets/buttons/postman.svg" height="36" alt="Postman QA"></a> | Коллекция Postman для JSONPlaceholder. Проверки HTTP-статуса, полей ответа и запроса отсутствующей записи. |
 
-<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/projects-ru-dark.svg"><img src="assets/ui/projects-ru-light.svg" width="325" alt="Избранные проекты"></picture></h2>
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/projects-ru-dark.svg?v=3"><img src="assets/ui/projects-ru-light.svg?v=3" width="325" alt="Избранные проекты"></picture></h2>
 
 [![Кодограф ВВГУ — Редактор и результат запуска](https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/kodograf-vvgu-showcase)
 
@@ -40,7 +40,7 @@
 
 <a href="https://github.com/mrjakeball/portfolio"><img src="assets/buttons/catalog-ru.svg" height="36" alt="Весь каталог проектов"></a>
 
-<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/tools-ru-dark.svg"><img src="assets/ui/tools-ru-light.svg" width="325" alt="Инструменты"></picture></h2>
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/tools-ru-dark.svg?v=3"><img src="assets/ui/tools-ru-light.svg?v=3" width="325" alt="Инструменты"></picture></h2>
 
 | Задача | Инструменты |
 | --- | --- |

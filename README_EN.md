@@ -3,22 +3,22 @@
   <img src="assets/inlay-en-light.svg" alt="Aleksei Kuzmin" width="100%">
 </picture>
 
-<p align="center">
-<a href="README.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-off-compact.svg?v=2"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-off.svg?v=2" height="56" alt="Русский"></picture></a>
-<a href="README_EN.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-on-compact.svg?v=2"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-on.svg?v=2" height="56" alt="English · selected"></picture></a>
-<a href="https://github.com/mrjakeball/portfolio/blob/main/README_EN.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/catalog-en-compact.svg?v=2"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/catalog-en.svg?v=2" height="56" alt="Project catalogue"></picture></a>
+<p>
+<a href="README.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-off-compact.svg?v=3"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-off.svg?v=3" height="38" alt="Русский"></picture></a>
+<a href="README_EN.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-on-compact.svg?v=3"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-on.svg?v=3" height="38" alt="English · selected"></picture></a>
+<a href="https://github.com/mrjakeball/portfolio/blob/main/README_EN.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/catalog-en-compact.svg?v=3"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/catalog-en.svg?v=3" height="38" alt="Project catalogue"></picture></a>
 </p>
 
 I study Information Systems and Technologies at Vladivostok State University and build web apps and learning tools. My AppSec and QA work starts with concrete questions: who can read a record, what an API accepts, and what changes after a fix.
 
-<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/practice-en-dark.svg"><img src="assets/ui/practice-en-light.svg" width="325" alt="Engineering practice"></picture></h2>
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/practice-en-dark.svg?v=3"><img src="assets/ui/practice-en-light.svg?v=3" width="325" alt="Engineering practice"></picture></h2>
 
 | Practice | Inside the repository |
 | --- | --- |
 | <a href="https://github.com/mrjakeball/appsec-labs/blob/main/README_EN.md"><img src="assets/buttons/appsec.svg" height="36" alt="AppSec Labs"></a> | Access-control observations from PortSwigger. Bandit and Semgrep findings before and after Python fixes. |
 | <a href="https://github.com/mrjakeball/qa-learning-portfolio/blob/main/README_EN.md"><img src="assets/buttons/postman.svg" height="36" alt="Postman QA"></a> | A Postman collection for JSONPlaceholder covering status codes, response fields and missing records. |
 
-<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/projects-en-dark.svg"><img src="assets/ui/projects-en-light.svg" width="325" alt="Selected projects"></picture></h2>
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/projects-en-dark.svg?v=3"><img src="assets/ui/projects-en-light.svg?v=3" width="325" alt="Selected projects"></picture></h2>
 
 [![Kodograf VVGU — Editor and execution output](https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/kodograf-vvgu-showcase/blob/main/README_EN.md)
 
@@ -40,7 +40,7 @@ I study Information Systems and Technologies at Vladivostok State University and
 
 <a href="https://github.com/mrjakeball/portfolio/blob/main/README_EN.md"><img src="assets/buttons/catalog-en.svg" height="36" alt="Full project catalogue"></a>
 
-<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/tools-en-dark.svg"><img src="assets/ui/tools-en-light.svg" width="325" alt="Toolbox"></picture></h2>
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/tools-en-dark.svg?v=3"><img src="assets/ui/tools-en-light.svg?v=3" width="325" alt="Toolbox"></picture></h2>
 
 | Task | Tools |
 | --- | --- |
